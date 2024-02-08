@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TrainSwitching.Importer/1.0.0": {
+        "dependencies": {
+          "TrainSwitching.Logic": "1.0.0"
+        },
+        "runtime": {
+          "TrainSwitching.Importer.dll": {}
+        }
+      },
+      "TrainSwitching.Logic/1.0.0": {
+        "runtime": {
+          "TrainSwitching.Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TrainSwitching.Importer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TrainSwitching.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

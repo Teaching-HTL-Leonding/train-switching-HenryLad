@@ -1,0 +1,12 @@
+c:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\020_train_switchting\TrainSwitching.Logic\bin\Debug\net8.0\TrainSwitching.Logic.deps.json
+c:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\020_train_switchting\TrainSwitching.Logic\bin\Debug\net8.0\TrainSwitching.Logic.dll
+c:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\020_train_switchting\TrainSwitching.Logic\bin\Debug\net8.0\TrainSwitching.Logic.pdb
+c:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\020_train_switchting\TrainSwitching.Logic\obj\Debug\net8.0\TrainSwitching.Logic.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\020_train_switchting\TrainSwitching.Logic\obj\Debug\net8.0\TrainSwitching.Logic.AssemblyInfoInputs.cache
+c:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\020_train_switchting\TrainSwitching.Logic\obj\Debug\net8.0\TrainSwitching.Logic.AssemblyInfo.cs
+c:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\020_train_switchting\TrainSwitching.Logic\obj\Debug\net8.0\TrainSwitching.Logic.csproj.CoreCompileInputs.cache
+c:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\020_train_switchting\TrainSwitching.Logic\obj\Debug\net8.0\TrainSwitching.Logic.sourcelink.json
+c:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\020_train_switchting\TrainSwitching.Logic\obj\Debug\net8.0\TrainSwitching.Logic.dll
+c:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\020_train_switchting\TrainSwitching.Logic\obj\Debug\net8.0\refint\TrainSwitching.Logic.dll
+c:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\020_train_switchting\TrainSwitching.Logic\obj\Debug\net8.0\TrainSwitching.Logic.pdb
+c:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\020_train_switchting\TrainSwitching.Logic\obj\Debug\net8.0\ref\TrainSwitching.Logic.dll
